@@ -4,7 +4,7 @@ Implements the functioning of Snake that performs all functions in the tasks, de
 ## Features
 
 
-![App Screenshot](https://github.com/XiaoSanchez/Java_Game-Snake/blob/main/src/ScreenShot.png)
+![App Screenshot](https://github.com/XiaoSanchez/Java_Game-Snake/blob/main/img/ScreenShot.png)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
