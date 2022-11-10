@@ -8,4 +8,3 @@ Implements the functioning of Snake that performs all functions in the tasks, de
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
